@@ -22,7 +22,7 @@ header {
 }
 
 nav {
-  background-color: #004d40;
+  background-color: pink;
   padding: 15px;
   position: sticky;
   top: 0;
@@ -96,7 +96,7 @@ iframe {
 }
 
 .region h2 {
-  color: pink;
+  color: #004d40;
   /* color: #004d40; */
   margin-bottom: 30px;
   text-align: center;
